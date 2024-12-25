@@ -1,0 +1,1 @@
+# playnite-boot-splash
